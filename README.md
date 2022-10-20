@@ -5,17 +5,11 @@
  Function names are written in catalan and all of them take and return floats
  
  Suma() = Addition
- 
  Resta() = Substraction
- 
  Multiplicacio() = Multiplication
- 
  Divisio() = Division
- 
  Quadrat() = Square
- 
  Cub() = Cube
- 
  Exponent() = Exponent
  
  
