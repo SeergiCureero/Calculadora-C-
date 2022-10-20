@@ -4,7 +4,7 @@
  
  Function names are written in catalan and all of them take and return floats
  
- Suma() = Addition
+ Suma() = Addition \n
  Resta() = Substraction
  Multiplicacio() = Multiplication
  Divisio() = Division
