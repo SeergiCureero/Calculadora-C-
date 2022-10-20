@@ -1,7 +1,7 @@
 # Calculadora C++
  In this project I've tried to make a simple calculator using c++
  
- I'm learning C++ at school but with the teacher that I have is nearly impossible to learn something. This is my first off-school project in c++. 
+ I'm learning C++ at school but at a very slow pace, so I decided to take matters into my own hands and start to write some code and explore by myself. This is my first off-school project in c++. 
  
  
  Function names are written in catalan and all of them take and return floats
