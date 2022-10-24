@@ -12,6 +12,7 @@ int main(void)
     printf("Quadrat: 11^2 = %f\n",Quadrat(11));
     printf("Cub: 5^3 = %f\n",Cub(5));
     printf("Exponent: 2^25 = %f\n",Exponent(2,25));
+    printf("Factorial: 6! = %i\n", Factorial(6));
     printf("--CONSTANTS--");
     printf("Pi:  %f\n", PI);
     printf("Tau: %f\n", TAU);
